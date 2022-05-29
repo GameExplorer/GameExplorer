@@ -11,3 +11,5 @@
 <div align="center">
 <a href="https://stackoverflow.com/users/15209742/ronin-hunter"><img src="https://stackoverflow.com/users/flair/15209742.png?theme=dark" width="208" height="58" alt="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
+
+SHOW_PROFILE_VIEWS = true;
