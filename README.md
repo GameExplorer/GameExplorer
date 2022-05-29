@@ -16,14 +16,12 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
 
- [![Visits Badge](https://badges.pufler.dev/visits/GameExplorer/git-badges)](https://badges.pufler.dev)
-
  [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
 
 [![Repos Badge](https://badges.pufler.dev/repos/GameExplorer)](https://badges.pufler.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameExplorer&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact)](https://github.com/GameExplorer/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GameExplorer&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
