@@ -1,7 +1,7 @@
 ###
 
 <div id="header" align="center">
-  <img src="programmer.png" alt="programmer">
+  <a href="https://github.com/GameExplorer"><img src="programmer.png" alt="programmer"></a>
 </div>
 
 
