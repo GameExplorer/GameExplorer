@@ -12,4 +12,18 @@
 <a href="https://stackoverflow.com/users/15209742/ronin-hunter"><img src="https://stackoverflow.com/users/flair/15209742.png?theme=dark" width="208" height="58" alt="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=GameExplorer&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=GameExplorer&left_color=green&right_color=red)¸
+
+ ![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
+
+ [![Visits Badge](https://badges.pufler.dev/visits/GameExplorer/git-badges)](https://badges.pufler.dev)
+
+ [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
+
+[![Repos Badge](https://badges.pufler.dev/repos/GameExplorer)](https://badges.pufler.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameExplorer&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact)](https://github.com/GameExplorer/github-readme-stats)
+
+
