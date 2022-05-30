@@ -31,13 +31,3 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/GameExplorer)](https://badges.pufler.dev)
 
-
-# Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/formidablae/GameExplorer/blob/main/github-metrics.svg" />
-</p>
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GameExplorer/langs)](https://githubtrends.io)
-
-
