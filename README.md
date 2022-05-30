@@ -4,6 +4,17 @@
   <a href="https://github.com/GameExplorer"><img src="programmer.png" alt="programmer"></a>
 </div>
 
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=GameExplorer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=GameExplorer&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
 
 <div align="center"><a href="https://wakatime.com/@2d9dd370-ae1d-4c31-86e4-e61456371d7f"><img src="https://wakatime.com/badge/user/2d9dd370-ae1d-4c31-86e4-e61456371d7f.svg" alt="Total time coded since Feb 25 2022" /></a>
 </div>
