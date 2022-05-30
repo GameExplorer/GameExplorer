@@ -26,5 +26,6 @@
 
 
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/GameExplorer/langs)](https://githubtrends.io)
 
 
