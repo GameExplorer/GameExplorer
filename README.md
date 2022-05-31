@@ -23,6 +23,7 @@
 <a href="https://stackoverflow.com/users/15209742/ronin-hunter"><img src="https://stackoverflow.com/users/flair/15209742.png?theme=dark" width="208" height="58" alt="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 
+<p align="center">
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GameExplorer&left_color=green&right_color=red)¸
 
  ![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
@@ -30,4 +31,4 @@
  [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
 
 [![Repos Badge](https://badges.pufler.dev/repos/GameExplorer)](https://badges.pufler.dev)
-
+</p>
