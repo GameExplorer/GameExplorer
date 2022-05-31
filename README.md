@@ -25,9 +25,6 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GameExplorer&left_color=green&right_color=red)
-
-
 ![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
 
 [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
