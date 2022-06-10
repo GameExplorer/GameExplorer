@@ -25,7 +25,7 @@
 
 
 
-#![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
+<!---![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
 
 [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
 
