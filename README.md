@@ -17,7 +17,13 @@
 </p>
 
 
+<p align="center" width="100%">
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
+</p>
+
+
 
 
 
