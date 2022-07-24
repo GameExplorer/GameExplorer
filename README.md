@@ -16,7 +16,7 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed?theme=dark)
 
 
 
