@@ -16,9 +16,10 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-<p align="center">
+<p style="text-align: center;">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 </p>
 
 
@@ -29,10 +30,10 @@
 <!---!<div align="center">
 <a href="https://stackoverflow.com/users/15209742/ronin-hunter"><img src="https://stackoverflow.com/users/flair/15209742.png?theme=dark" width="208" height="58" alt="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ronin Hunter at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
--->
 
 
-[Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
+
+<!---![Visitor Count](https://profile-counter.glitch.me/GameExplorer/count.svg)
 
 [![Years Badge](https://badges.pufler.dev/years/GameExplorer)](https://badges.pufler.dev)
 
