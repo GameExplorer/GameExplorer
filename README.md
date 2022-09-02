@@ -14,10 +14,10 @@
 
 <p align="center">
 	
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact)](https://github.com/GameExplorer/github-readme-stats)
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact)](https://github.com/GameExplorer/github-readme-stats)
 
 
 <!---
