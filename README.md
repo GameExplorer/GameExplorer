@@ -17,7 +17,9 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact)](https://github.com/GameExplorer/github-readme-stats)
+<a href="https://github.com/GameExplorer/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact"/>
+</a>
 
 
 <!---
