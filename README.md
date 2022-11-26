@@ -1,6 +1,4 @@
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameexplorer" alt="gameexplorer" /></a> </p>
-
 <div id="header" align="center">
   <a href="https://github.com/GameExplorer"><img src="programmer.png" alt="programmer"></a>
 </div>
