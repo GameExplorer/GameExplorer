@@ -16,10 +16,11 @@
 
 </p>
 
-<a href="https://github.com/GameExplorer/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact"/>
-</a>
-
+<p align="center">
+	<a href="https://github.com/GameExplorer/github-readme-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameExplorer&layout=compact&theme=dark"/>
+	</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="gameexplorer" /> </p>
 
