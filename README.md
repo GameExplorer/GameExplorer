@@ -22,10 +22,4 @@
 	</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gameexplorer&label=Profile%20views&color=0e75b6&style=flat" alt="gameexplorer" /> </p>
-
-
-
-[![wakatime](https://wakatime.com/badge/user/2d9dd370-ae1d-4c31-86e4-e61456371d7f.svg)](https://wakatime.com/@2d9dd370-ae1d-4c31-86e4-e61456371d7f)
-
 
